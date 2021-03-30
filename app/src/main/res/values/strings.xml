@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="tahmini_dene">Tahmini Dene</string>
+    <string name="say_tahmin_edin">Sayı tahmin edin</string>
+</resources>
